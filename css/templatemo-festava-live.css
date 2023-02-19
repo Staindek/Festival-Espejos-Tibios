@@ -11,16 +11,16 @@ https://templatemo.com/tm-583-festava-live
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #F8CB2E;
-  --secondary-color:              #EE5007;
+  --white-color:                  #9774AB;
+  --primary-color:                #582A72;
+  --secondary-color:              #D5D56A;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #EE5007;
-  --custom-btn-bg-hover-color:    #c01f27;
+  --custom-btn-bg-color:          #D5D56A;
+  --custom-btn-bg-hover-color:    #892E61;
   --dark-color:                   #000000;
-  --p-color:                      #717275;
-  --border-color:                 #7fffd4;
-  --link-hover-color:             #B22727;
+  --p-color:                      #9774AB;
+  --border-color:                 #26033A;
+  --link-hover-color:             #671142;
 
   --body-font-family:             'Outfit', sans-serif;
 
